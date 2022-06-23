@@ -1,0 +1,11 @@
+body {
+    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+
+header {
+    background-color: #2C3E50;
+}
+
+.box_text {
+    background-color: yellow;
+}
