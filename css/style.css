@@ -2,10 +2,19 @@ body {
     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
-header {
+#navigation {
     background-color: #2C3E50;
 }
 
 .box_text {
     background-color: yellow;
+    min-height: 200px;
+}
+
+.box_text1 {
+    background-color: yellow;
+}
+
+#jumbotron {
+    background-color: #1ABC9C;
 }
