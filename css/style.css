@@ -15,6 +15,10 @@ body {
     background-color: yellow;
 }
 
-#jumbotron {
+#jumbotron, #about {
     background-color: #1ABC9C;
+}
+
+._center {
+    text-align: center;
 }
