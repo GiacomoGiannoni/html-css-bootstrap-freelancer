@@ -15,8 +15,21 @@ body {
     background-color: yellow;
 }
 
+.box_text2 {
+    background-color: yellow;
+    min-height: 50px;
+}
+
 #jumbotron, #about {
     background-color: #1ABC9C;
+}
+
+#footerup {
+    background-color: #3A546D;
+}
+
+#footerdown {
+    background-color: #2C3E50;
 }
 
 ._center {
