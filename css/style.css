@@ -2,7 +2,7 @@ body {
     font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
 }
 
-#navigation {
+.ms_navbar {
     background-color: #2C3E50;
 }
 
