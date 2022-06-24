@@ -32,3 +32,22 @@ body {
     background-color: #2C3E50;
 }
 
+._img {
+    width: 200px;
+}
+
+._stilizzazione {
+    width: 100px;
+    height: 3px;
+    background-color: white;
+    color: white;
+    opacity: 1;
+}
+
+._stilizzazione_black {
+    width: 100px;
+    height: 3px;
+    background-color: black;
+    color: black;
+    opacity: 1;
+}
