@@ -32,6 +32,10 @@ body {
     background-color: #2C3E50;
 }
 
+#jumbotron ._img {
+    width: 20%;
+}
+
 ._img {
     width: 100%;
 }
@@ -42,6 +46,7 @@ body {
     background-color: white;
     color: white;
     opacity: 1;
+    margin: 4px 0px;
 }
 
 ._stilizzazione_black {
@@ -50,4 +55,10 @@ body {
     background-color: black;
     color: black;
     opacity: 1;
+    margin: 4px 0px;
+}
+
+._color {
+    color: #1ABC9C;
+    text-decoration: none;
 }
